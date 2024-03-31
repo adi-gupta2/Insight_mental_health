@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#243597</color>
+    <color name="Panels">#2882CA</color>
+    <color name="button_background">#53ADF4</color>
+    <color name="button_secondary">#C6E6FF</color>
+    <color name="background">#F7FFFF</color>
+    <color name="dark_text">#FF000000</color>
+    <color name="grey">#555454</color>
+    <color name="light_text">#FFFFFFFF</color>
+</resources>
